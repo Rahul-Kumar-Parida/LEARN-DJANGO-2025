@@ -6,8 +6,6 @@ This repository contains my learning journey with **Django (2025)**. Below are t
 1. Initialize Git and push code to GitHub  
    ```bash
    git init
-   git config --global user.name "Rahul Kumar Parida"
-   git config --global user.email "rahulkumarparida@gmail.com"
    git add .
    git commit -m "Initial commit"
    git branch -M main
